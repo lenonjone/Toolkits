@@ -3,5 +3,5 @@
 
 设计类：
 -----------------
-**Processon** *（在线模型编辑）*  [^link]。
+**Processon** [^link]*（在线模型编辑）*  。
 [^link]:https://www.processon.com/
