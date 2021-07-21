@@ -7,3 +7,7 @@
 
 <span id="f1">1. [link1](#a1)</span> https://www.processon.com/
 
+**2.Xmind** <sup id="a2">[[link2]](#f2)</sup>*（思维导图）*  。
+
+<span id="f2">2. [link1](#a1)</span> 自行下载（建议破解版）
+
