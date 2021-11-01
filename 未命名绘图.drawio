@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T07:24:07.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="QLjELLOw6KDOvXaLxZ3V" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T07:25:41.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="Mz70cpPyVaYJwik0XhZQ" version="15.6.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -172,6 +172,9 @@
         <mxCell id="kMWCNht83CSTPItwxAai-2145" value="日程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMWCNht83CSTPItwxAai-2131">
           <mxGeometry x="21" y="85" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2151" value="&lt;font color=&quot;#ff0000&quot;&gt;立项阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMWCNht83CSTPItwxAai-2131">
+          <mxGeometry x="220" y="142" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="kMWCNht83CSTPItwxAai-2138" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="80" height="30" as="geometry" />
         </mxCell>
@@ -199,11 +202,17 @@
         <mxCell id="kMWCNht83CSTPItwxAai-2144" value="跟进日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="453" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kMWCNht83CSTPItwxAai-2149" value="立项阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kMWCNht83CSTPItwxAai-2149" value="需求管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMWCNht83CSTPItwxAai-2150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2145" target="kMWCNht83CSTPItwxAai-2149">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2152" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2149" target="kMWCNht83CSTPItwxAai-2151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="550" as="sourcePoint" />
+            <mxPoint x="220" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
