@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T06:50:42.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="HrP0nVSGnkRAc0IqkSUy" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T07:04:49.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="7B6e_RhxM6PXkyNDAive" version="15.6.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -141,6 +141,33 @@
         </mxCell>
         <mxCell id="kMWCNht83CSTPItwxAai-2085" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="1080" width="1070" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2089" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2087" target="kMWCNht83CSTPItwxAai-2088">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2087" value="计划/任务" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="103" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2091" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2088" target="kMWCNht83CSTPItwxAai-2090">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2088" value="客户管理" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="70" y="330" width="103" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2093" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2090" target="kMWCNht83CSTPItwxAai-2092">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2090" value="意向单管理" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="70" y="472" width="103" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2095" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2092" target="kMWCNht83CSTPItwxAai-2094">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2092" value="订单管理" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="70" y="620" width="103" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2094" value="客户公海" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="103" height="96" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
