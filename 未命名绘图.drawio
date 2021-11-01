@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T07:18:50.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="8YtCp93wsU6SY4OjtZXV" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T07:24:07.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="QLjELLOw6KDOvXaLxZ3V" version="15.6.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -158,21 +158,51 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kMWCNht83CSTPItwxAai-2131" value="客户管理" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="320" height="200" as="geometry" />
+          <mxGeometry x="50" y="368" width="320" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="kMWCNht83CSTPItwxAai-2132" value="分配任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMWCNht83CSTPItwxAai-2131">
+        <mxCell id="kMWCNht83CSTPItwxAai-2132" value="客户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMWCNht83CSTPItwxAai-2131">
           <mxGeometry x="121" y="31" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMWCNht83CSTPItwxAai-2133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kMWCNht83CSTPItwxAai-2131" source="kMWCNht83CSTPItwxAai-2134" target="kMWCNht83CSTPItwxAai-2132">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kMWCNht83CSTPItwxAai-2134" value="计划创建" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMWCNht83CSTPItwxAai-2131">
+        <mxCell id="kMWCNht83CSTPItwxAai-2134" value="创建客户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMWCNht83CSTPItwxAai-2131">
           <mxGeometry x="21" y="31" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2145" value="日程管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMWCNht83CSTPItwxAai-2131">
+          <mxGeometry x="21" y="85" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMWCNht83CSTPItwxAai-2138" value="数据统计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kMWCNht83CSTPItwxAai-2140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2136" target="kMWCNht83CSTPItwxAai-2138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2141" target="kMWCNht83CSTPItwxAai-2143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2141" value="人脉管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="399" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2132" target="kMWCNht83CSTPItwxAai-2141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2143" target="kMWCNht83CSTPItwxAai-2144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2143" value="跟进计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271" y="453" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2144" target="kMWCNht83CSTPItwxAai-2145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2144" value="跟进日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="453" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2149" value="立项阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kMWCNht83CSTPItwxAai-2150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kMWCNht83CSTPItwxAai-2145" target="kMWCNht83CSTPItwxAai-2149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
