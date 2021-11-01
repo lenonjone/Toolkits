@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-01T07:47:32.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="3slM0aLhzuAgoZwX0WD5" version="15.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-01T08:50:46.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="YjQHUvwY5h3biuAdlOOd" version="15.6.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -57,9 +57,6 @@
         </mxCell>
         <mxCell id="2047" value="工作集系统结构图" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;dashed=1;fontSize=36;fontColor=#FFFFFF;fontFamily=Helvetica;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="40" y="50" width="1060" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2049" value="Data&lt;div&gt;Management&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="596" y="460" width="140" height="320" as="geometry" />
         </mxCell>
         <mxCell id="2071" value="Web Dashboards" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="1181" y="301" width="50" height="30" as="geometry" />
